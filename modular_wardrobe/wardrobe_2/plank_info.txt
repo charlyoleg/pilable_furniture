@@ -1,0 +1,39 @@
+solid plank info:
+plank_info_01:   800   100    28 	 1 	plank_xz_rear_bottom
+plank_info_02:   800   100    28 	 1 	plank_xz_rear_top
+plank_info_03:   310   100    28 	 2 	plank_zx_rear_side
+plank_info_04:   310   100    28 	 1 	plank_zx_rear_middle
+plank_info_05:   800   100    28 	 1 	plank_xz_front_bottom
+plank_info_06:   800   100    28 	 1 	plank_xz_front_top
+plank_info_07:   310   100    28 	 2 	plank_zx_front_side
+plank_info_08:   310   100    28 	 1 	plank_zx_front_middle
+plank_info_09:   380   100    28 	 2 	plank_yz_side_bottom
+plank_info_10:   380   100    28 	 2 	plank_yz_side_top
+plank_info_11:   310   100    28 	 4 	plank_zy_side
+plank_info_12:   354   100    28 	 1 	plank_yz_middle_bottom
+plank_info_13:   354    49    28 	 1 	plank_yz_middle_top
+plank_info_14:   296    49    28 	 2 	plank_zy_middle
+plank_info_15:   754    49    28 	 2 	plank_xy_bottom
+plank_info_16:   754    49    28 	 2 	plank_xy_top
+plank_info_17:   296   100    28 	 2 	plank_yx_side_bottom
+plank_info_18:   296   100    28 	 2 	plank_yx_side_top
+plank_info_19:   296   100    28 	 1 	plank_yx_middle_bottom
+plank_info_20:   296   100    28 	 1 	plank_yx_middle_top
+
+Number of types of planks: 20
+Number of planks: 32
+linear per width:
+     49 :   2158
+    100 :   7048
+plywood slab info:
+plank_info_01:   247   276     5 	 4 	slab_horizontal
+plank_info_02:   320   276     5 	 0 	slab_horizontal
+plank_info_03:   200   250     5 	 2 	slab_side
+plank_info_04:   270   250     5 	 2 	slab_rear
+plank_info_05:   320   250     5 	 0 	slab_rear
+
+Number of types of planks: 3
+Number of planks: 8
+linear per width:
+    250 :    790
+    276 :    567
