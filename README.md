@@ -29,6 +29,9 @@ This design favours the sturdiness and cheap base material. The frame is built w
 
 This result in some complex plank designs that must be elaborated with CNC mill machine.
 
+Fittings and grooves are designed for guiding the assembly. Planks and slabs are glued together. So stress is lineary spread and not concentrated to points like by dowel or nail assembly.
+
+
 License
 =======
 
